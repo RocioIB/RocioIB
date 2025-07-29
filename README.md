@@ -15,6 +15,8 @@
 
 -💼Quiero dedicarme a: Desarrollador front-end
 
+-🛠️Quiero aprender sobre:Soporte y mantenimiento
+
 <Br>
 <h1>Certificaciones! 🏆</h1>
 
